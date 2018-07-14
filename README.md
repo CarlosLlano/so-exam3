@@ -1,7 +1,6 @@
 # PARCIAL 3 DEL CURSO SISTEMAS OPERATIVOS #
 
 
-***TRABAJO PRESENTADO POR: EMMANUEL BOLAÑOS, DANIEL GUTIERREZ, CARLOS LLANO***
 
 
 ***1. Consignar las instrucciones comentadas para la instalación y configuración del stack de sensu (cliente, servidor, api, uchiwa dashboard y 
